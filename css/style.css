@@ -1,0 +1,26 @@
+body {
+    background-color: #55ACEE;
+    color: white;
+}
+
+header {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.box {
+    text-align: center;
+}
+
+.trigger {
+    margin: 30px 580px;
+    height: 40px;
+    width: 200px;
+}
+
+.tweet {
+    margin: 30px 600px;
+    height: 40px;
+    width: 200px;
+    font-size: 25px;
+}
